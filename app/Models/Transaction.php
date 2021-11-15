@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Transaction extends Model
-{
+{//model
     use HasFactory;
     protected $table = 'transactions';
     protected $fillable = [
