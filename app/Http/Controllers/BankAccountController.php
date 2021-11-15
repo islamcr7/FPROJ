@@ -8,7 +8,7 @@ use App\Http\Controllers\BaseController as BaseController;
 use App\Http\Resources\BankAccountResource as BankAccountResource;
 class BankAccountController extends BaseController
 {
-    /**
+    /****
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response

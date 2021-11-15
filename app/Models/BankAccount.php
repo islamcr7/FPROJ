@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 
 class BankAccount extends Model
-{
+{  //model
     use HasFactory;
     protected $table ='bank_accounts';
     protected $fillable = [ 'Description', 'OpenDate', 'Code', 'CardNumber', 'PIN','customer_id' ];

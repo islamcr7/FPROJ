@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Atm extends Model
 {
+    //model
     use HasFactory;
     protected $table = 'atms';
     protected $fillable = [

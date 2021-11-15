@@ -10,7 +10,7 @@ use Validator;
 
 class TransactionController extends BaseController
 {
-    /**
+    /****
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
