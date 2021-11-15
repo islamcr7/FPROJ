@@ -6,7 +6,7 @@ use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithoutMiddleware;
 
 class ExampleTest  extends TestCase
-{   
+{   //tests
     use WithoutMiddleware;
 
     public function testUnderAge()
