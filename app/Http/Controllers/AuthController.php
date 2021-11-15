@@ -66,7 +66,7 @@ class AuthController extends BaseController
 
      * Login api
 
-     *
+     ***
 
      * @return \Illuminate\Http\Response
 

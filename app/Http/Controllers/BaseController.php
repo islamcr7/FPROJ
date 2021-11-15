@@ -17,7 +17,7 @@ class BaseController extends Controller
 
      * success response method.
 
-     *
+     ***
 
      * @return \Illuminate\Http\Response
 

@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 
 class CustomerController extends BaseController
 {
-    /**
+    /****
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
